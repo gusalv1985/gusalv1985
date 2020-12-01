@@ -1,4 +1,4 @@
-### bienvenido al github de Alvarez Gustavo Marcelo
+### Bienvenido al github de Alvarez Gustavo Marcelo
 
 En este espacio pueden encontrar algunos trabajos
 Míos realizados tanto en proyectos de la 
